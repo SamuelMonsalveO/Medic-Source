@@ -1,8 +1,10 @@
-Startup Challenge: Ejemplo Resuelto - "Medic Source"
+💊 Medic Source 💊
 
-Nombre del producto
+Nombre del producto:
 
 Medic Source – Una página web para el control y gestión de inventario de medicamentos en Clinicas, con alertas de vencimiento, escasez y reportes automatizados.
+
+
 
 Product Owner – Requisitos
 
