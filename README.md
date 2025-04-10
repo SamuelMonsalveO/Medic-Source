@@ -4,8 +4,6 @@ Nombre del producto:
 
 Medic Source – Una página web para el control y gestión de inventario de medicamentos en Clinicas, con alertas de vencimiento, escasez y reportes automatizados.
 
-
-
 Product Owner – Requisitos
 
 •	Problema que resuelve: Software web orientado al control de la compra, venta y distribución de medicamentos.
@@ -46,7 +44,7 @@ o	Datos deben almacenarse de forma local o en servidor seguro (según la versió
 
 Diseñador UX/UI – Bocetos y flujo
 
- 
+
 
 Desarrollador – Implementación
 
